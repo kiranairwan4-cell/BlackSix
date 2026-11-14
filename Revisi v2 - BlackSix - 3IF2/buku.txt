@@ -1,0 +1,10 @@
+B1|Laut Bercerita|0|0|50000
+B2|Bumi Manusia|0|0|50000
+B3|Cantik Itu Luka|0|0|50000
+B4|Laskar Pelangi|0|0|50000
+B5|Amba|0|0|50000
+B6|Gadis Pantai|0|0|50000
+B7|Pulang|0|0|50000
+B8|Ronggeng Dukuh Paruk|0|0|50000
+B9|Negeri 5 Menara|0|0|50000
+B10|Supernova|0|0|50000
